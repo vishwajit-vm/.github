@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="vishwajit-vm: the open-source home of Strutvane. Declare the model. Ship the app.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F9FC"/>
+      <stop offset="1" stop-color="#E7EEF7"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2F5D93" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4F7CB3" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4F7CB3" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1280" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1040" cy="180" r="230" fill="url(#glow)"/>
+    <g transform="translate(905 45) scale(4.2)">
+      <line x1="12" y1="52" x2="44" y2="20" stroke="#2F5D93" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="12" cy="52" r="6" fill="#2F5D93"/>
+      <polygon points="34,8 60,8 46,26" fill="#F5A524"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="18" fill="none" stroke="#D0D7DE"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="84" fill="#9A6100" font-size="14" font-weight="700" letter-spacing="2.5">VISHWAJIT-VM · PERSONAL OPEN-SOURCE ORGANISATION</text>
+    <text x="62" y="152" fill="#0F1B2D" font-size="66" font-weight="800" letter-spacing="-1">Strutvane</text>
+    <text x="64" y="198" fill="#1F3A5F" font-size="28" font-weight="600">Declare the model. Ship the app.</text>
+    <text x="64" y="238" fill="#4A5B70" font-size="18">The TypeScript framework &amp; package ecosystem for enterprise B2B apps.</text>
+    <g font-size="14" font-weight="600">
+      <rect x="64" y="270" width="171" height="34" rx="17" fill="#2F5D93" fill-opacity="0.08" stroke="#2F5D93" stroke-opacity="0.45"/>
+      <text x="149.5" y="292" fill="#1F3A5F" text-anchor="middle">TypeScript, strict</text>
+      <rect x="247" y="270" width="101" height="34" rx="17" fill="#2F5D93" fill-opacity="0.08" stroke="#2F5D93" stroke-opacity="0.45"/>
+      <text x="297.5" y="292" fill="#1F3A5F" text-anchor="middle">Node ≥ 24</text>
+      <rect x="360" y="270" width="124" height="34" rx="17" fill="#2F5D93" fill-opacity="0.08" stroke="#2F5D93" stroke-opacity="0.45"/>
+      <text x="422" y="292" fill="#1F3A5F" text-anchor="middle">MIT licensed</text>
+      <rect x="496" y="270" width="240" height="34" rx="17" fill="#F5A524" fill-opacity="0.16" stroke="#C98500" stroke-opacity="0.7"/>
+      <text x="616" y="292" fill="#7A4D00" text-anchor="middle">Phase 0 done · Phase 1 next</text>
+    </g>
+  </g>
+</svg>

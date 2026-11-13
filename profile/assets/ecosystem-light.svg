@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 500" width="1280" height="500" role="img" aria-label="Strutvane ecosystem: create-strutvane, CLI and devkit on top; framework, auth, UI and logs packages; the core kernel; and shared contracts at the base. Around it: the blueprint hub, the docs site and shared tooling.">
+<rect width="1280" height="500" rx="16" fill="#FFFFFF"/>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="30" fill="#9A6100" font-size="12" font-weight="700" letter-spacing="2">GETTING STARTED</text>
+<rect x="40" y="42" width="286.6666666666667" height="86" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="58" y="70" fill="#1F2328" font-size="18" font-weight="700">create-strutvane</text>
+<text x="58" y="91" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">npm create strutvane@latest</text>
+<text x="58" y="112" fill="#57606A" font-size="13">Scaffold full-stack, API-only or UI-only apps</text>
+<rect x="346.6666666666667" y="42" width="286.6666666666667" height="86" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="364.6666666666667" y="70" fill="#1F2328" font-size="18" font-weight="700">strutvane-cli</text>
+<text x="364.6666666666667" y="91" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">strutvane · @strutvane/cli</text>
+<text x="364.6666666666667" y="112" fill="#57606A" font-size="13">make:model, migrate, routes, eject, upgrade</text>
+<rect x="653.3333333333334" y="42" width="286.6666666666667" height="86" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="671.3333333333334" y="70" fill="#1F2328" font-size="18" font-weight="700">strutvane-devkit</text>
+<text x="671.3333333333334" y="91" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/devkit</text>
+<text x="671.3333333333334" y="112" fill="#57606A" font-size="13">SDK for installers, generators, codemods</text>
+<text x="40" y="156" fill="#9A6100" font-size="12" font-weight="700" letter-spacing="2">APPLICATION PACKAGES</text>
+<rect x="40" y="168" width="210" height="96" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="58" y="196" fill="#1F2328" font-size="18" font-weight="700">strutvane-framework</text>
+<text x="58" y="217" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/framework</text>
+<text x="58" y="238" fill="#57606A" font-size="13">Models, migrations,</text>
+<text x="58" y="254" fill="#57606A" font-size="13">secured CRUD API, OpenAPI</text>
+<rect x="270" y="168" width="210" height="96" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="288" y="196" fill="#1F2328" font-size="18" font-weight="700">strutvane-auth</text>
+<text x="288" y="217" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/auth</text>
+<text x="288" y="238" fill="#57606A" font-size="13">RBAC/ABAC, multi-tenancy,</text>
+<text x="288" y="254" fill="#57606A" font-size="13">SSO/SCIM, audit logs</text>
+<rect x="500" y="168" width="210" height="96" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="518" y="196" fill="#1F2328" font-size="18" font-weight="700">strutvane-ui</text>
+<text x="518" y="217" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/ui</text>
+<text x="518" y="238" fill="#57606A" font-size="13">Tables, forms, detail pages,</text>
+<text x="518" y="254" fill="#57606A" font-size="13">themes, components you own</text>
+<rect x="730" y="168" width="210" height="96" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity="1"/>
+<text x="748" y="196" fill="#1F2328" font-size="18" font-weight="700">strutvane-logs</text>
+<text x="748" y="217" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/logs</text>
+<text x="748" y="238" fill="#57606A" font-size="13">Structured logs, redaction,</text>
+<text x="748" y="254" fill="#57606A" font-size="13">built-in log viewer</text>
+<text x="40" y="292" fill="#9A6100" font-size="12" font-weight="700" letter-spacing="2">KERNEL</text>
+<rect x="40" y="304" width="900" height="64" rx="10" fill="#F6F8FA" stroke="#2F5D93" stroke-opacity="0.8"/>
+<text x="60" y="331" fill="#1F2328" font-size="18" font-weight="700">strutvane-core</text>
+<text x="280" y="331" fill="#9A6100" font-size="13" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/core</text>
+<text x="60" y="353" fill="#57606A" font-size="13">App lifecycle · typed service container · providers · validated config &amp; env · request context · events · plugin host</text>
+<text x="40" y="396" fill="#9A6100" font-size="12" font-weight="700" letter-spacing="2">SHARED CONTRACTS</text>
+<rect x="40" y="408" width="900" height="64" rx="10" fill="#EAF1FA" stroke="#2F5D93" stroke-opacity="0.8"/>
+<text x="60" y="435" fill="#1F2328" font-size="18" font-weight="700">strutvane-contracts</text>
+<text x="280" y="435" fill="#9A6100" font-size="13" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">@strutvane/contracts</text>
+<text x="60" y="457" fill="#57606A" font-size="13">Shared types &amp; wire protocols (Actor, Tenant, Permission, ListQuery, Problem, AuditEvent) · zero runtime dependencies</text>
+<line x1="490" y1="128" x2="490" y2="156" stroke="#2F5D93" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="490" y1="264" x2="490" y2="292" stroke="#2F5D93" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="490" y1="368" x2="490" y2="396" stroke="#2F5D93" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="970" y="30" fill="#9A6100" font-size="12" font-weight="700" letter-spacing="2">PROJECT</text>
+<rect x="970" y="42" width="270" height="136" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-dasharray="5 4"/>
+<text x="988" y="74" fill="#1F2328" font-size="18" font-weight="700">strutvane</text>
+<text x="988" y="96" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">blueprint hub</text>
+<text x="988" y="124" fill="#57606A" font-size="13">Architecture, ADRs 0001–0015,</text>
+<text x="988" y="142" fill="#57606A" font-size="13">RFCs, roadmap, Phase 0 spikes</text>
+<rect x="970" y="196" width="270" height="136" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-dasharray="5 4"/>
+<text x="988" y="228" fill="#1F2328" font-size="18" font-weight="700">strutvane-docs</text>
+<text x="988" y="250" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">docs site · live</text>
+<text x="988" y="278" fill="#57606A" font-size="13">Friendly, example-first guides</text>
+<text x="988" y="296" fill="#57606A" font-size="13">built with Astro Starlight</text>
+<rect x="970" y="350" width="270" height="122" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-dasharray="5 4"/>
+<text x="988" y="382" fill="#1F2328" font-size="18" font-weight="700">strutvane-tooling</text>
+<text x="988" y="404" fill="#9A6100" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">internal</text>
+<text x="988" y="432" fill="#57606A" font-size="13">Shared configs, CI and</text>
+<text x="988" y="450" fill="#57606A" font-size="13">release workflows</text>
+</g></svg>
