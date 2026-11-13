@@ -21,7 +21,7 @@
 **vishwajit-vm** is the open-source organisation of [Vishwajit VM](https://github.com/vishwajitvm). It hosts **Strutvane**, a TypeScript framework and package ecosystem for enterprise B2B applications: the admin panels, multi-tenant SaaS products and internal tools that every business needs, and that teams rebuild by hand for every project.
 
 > [!NOTE]
-> **Project status.** Phase 0 (foundations) is complete; Phase 1 (core, CLI and framework, targeting `0.1.0-alpha`) is next. The architecture blueprint, decision records (ADRs 0001–0015), RFCs and nine validation spikes (419 tests) are published. Shared tooling, the documentation site and the `@strutvane/contracts` v0 draft are built and tested. **No package has been released on npm yet**; the names there are reserved placeholders.
+> **Project status.** Phase 0 (foundations) is complete; Phase 1 (core, CLI and framework, targeting `0.1.0-alpha`) is next. The architecture blueprint, decision records (ADRs 0001–0016), RFCs and nine validation spikes (419 tests) are published. Shared tooling, the documentation site and the `@strutvane/contracts` v0 draft are built and tested. **No package has been released on npm yet**; the names there are reserved placeholders.
 
 <br>
 
